@@ -1,4 +1,12 @@
-### Hi there 👋
+### 📌 My Top Projects:
+> My projects will stay here. 🤔
+### 🌱 Top Studing Projects:
+1. [Alura-plus (HTML,CSS)](https://github.com/ilevex0/Alura-plus)
+2. [Joana-porfolio (HTML,CSS)](https://github.com/ilevex0/Joana-portfolio)
+
+### 💬 Contact me:
+> My contact details will be here. 🤔
+
 
 <!--
 **ilevex0/ilevex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
