@@ -1,11 +1,14 @@
 ### 📌 My Top Projects:
-> My projects will stay here. 🤔
+> My most significant projects will be showcased here. 🤔
+
 ### 🌱 Top Studing Projects:
-1. [Alura-plus (HTML,CSS)](https://github.com/ilevex0/Alura-plus)
-2. [Joana-porfolio (HTML,CSS)](https://github.com/ilevex0/Joana-portfolio)
+1. [Alura-plus (HTML,CSS)](https://ilevex0.github.io/Alura-plus/)  |  🔍[View Repository](https://github.com/ilevex0/Alura-plus)
+- Description: Advertising page developed during the HTML and CSS course at Alura.
+2. [Joana-porfolio (HTML,CSS)](https://ilevex0.github.io/Joana-portfolio/)  | 🔍[View Repository](https://github.com/ilevex0/Joana-portfolio)
+- Description: A portfolio developed during the HTML and CSS course at Alura.
 
 ### 💬 Contact me:
-> My contact details will be here. 🤔
+> You can find my contact details here. 🤔
 
 
 <!--
