@@ -10,7 +10,8 @@
 - Description: A portfolio developed during the HTML and CSS course at Alura.
 
 ### 💬 Contact me:
-> You can find my contact details here. 🤔
+- Email: [contactilevex@gmail.com](mailto:contactilevex@gmail.com)
+- LinkedIn: [in/ilevex](https://www.linkedin.com/in/ilevex/)
 
 
 <!--
