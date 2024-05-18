@@ -1,17 +1,13 @@
-### 📌 My Top Projects:
-> My most significant projects will be showcased here. 🤔
+# About me / Contact
 
-### 🌱 Top Studing Projects:
-1. [Alura-books (HTML,CSS)](https://ilevex0.github.io/Alura-books/)  |  🔍[View Repository](https://github.com/ilevex0/Alura-books)
-- Description: Advertising page developed during the HTML and CSS course at Alura.
-2. [Alura-plus (HTML,CSS)](https://ilevex0.github.io/Alura-plus/)  |  🔍[View Repository](https://github.com/ilevex0/Alura-plus)
-- Description: Advertising page developed during the HTML and CSS course at Alura.
-3. [Joana-porfolio (HTML,CSS)](https://ilevex0.github.io/Joana-portfolio/)  | 🔍[View Repository](https://github.com/ilevex0/Joana-portfolio)
-- Description: A portfolio developed during the HTML and CSS course at Alura.
+### Portfolio:
+- [ilevex0.github.io](https://ilevex0.github.io)
+> 📌 My personal portfolio, where you can see all my work.
 
-### 💬 Contact me:
-- Email: [contactilevex@gmail.com](mailto:contactilevex@gmail.com)
-- LinkedIn: [in/ilevex](https://www.linkedin.com/in/ilevex/)
+### Contact:
+- **Email:** [contactilevex@gmail.com](mailto:contactilevex@gmail.com)
+- **LinkedIn:** [in/ilevex](https://www.linkedin.com/in/ilevex/)
+> 💬 Feel Free to send me a message.
 
 
 <!--
