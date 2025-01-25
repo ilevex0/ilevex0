@@ -1,7 +1,7 @@
 # About me / Contact
 
 ### Portfolio:
-- [ilevex0.github.io](https://ilevex0.github.io)
+- [https://portfolio-vue-three-delta.vercel.app](https://portfolio-vue-three-delta.vercel.app)
 > 📌 My personal portfolio, where you can see all my work.
 
 ### Contact:
