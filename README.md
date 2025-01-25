@@ -2,7 +2,7 @@
 
 ### Portfolio:
 - [https://portfolio-vue-three-delta.vercel.app](https://portfolio-vue-three-delta.vercel.app)
-> 📌 My personal portfolio, where you can see all my work.
+> 📌 My personal portfolio, where you can see my portfolio.
 
 ### Contact:
 - **Email:** [contactilevex@gmail.com](mailto:contactilevex@gmail.com)
